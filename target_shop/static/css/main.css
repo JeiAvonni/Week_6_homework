@@ -1,0 +1,13 @@
+/* Shop Page CSS */
+
+
+.shop-header {
+    background-image: url("https://preview.redd.it/bxocx21yeqq01.jpg?width=550&auto=webp&s=ad6fdf1471218a9cd2c33a7bef024cf6f4cdfe03");
+    background-size: cover;
+    height: 700px;
+    color: rgb(17, 6, 6); 
+}
+
+.shop-stats {
+    color: black; 
+}
